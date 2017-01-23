@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25dec2f6-0527-4043-933d-3a76e3585ffa" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.txt" afterPath="$PROJECT_DIR$/index.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hotfix.txt" afterPath="$PROJECT_DIR$/hotfix.txt" />
     </list>
     <ignored path="git-practice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,6 +48,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.txt" />
+        <option value="$PROJECT_DIR$/hotfix.txt" />
       </list>
     </option>
   </component>
@@ -216,15 +217,15 @@
       <option name="number" value="Default" />
       <updated>1485207422272</updated>
       <workItem from="1485207427893" duration="624000" />
-      <workItem from="1485208364002" duration="54000" />
+      <workItem from="1485208364002" duration="128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="678000" />
+    <option name="totallyTimeSpent" value="752000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -271,6 +272,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hotfix.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43430656">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24817519">
